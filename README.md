@@ -1,2 +1,3 @@
-# YoloV7-CustomDetectionTutorial-TransferLearning-DetectAFireSmoke
-In this repo we do an example on how to do transfer learning with YoloV7 and train for a custom object using YoloV7, Google Collab and Roboflow
+# YoloV7-DetectandoUnObjectoPersonalizado-TransferLearning-DetecciónDeUnIncendio
+
+En este repo lo que hacemos es un ejemplo/tutorial de como hacer transfer learning en YoloV7 y entrenarlo para detecte cualquier objeto que se nos ocurra usando Google Collab, YoloV7 y Roboflow
